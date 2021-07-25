@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sravan-Patsa
-- 👀 I’m interested in creating solutions to problems
+
 - 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me patsasravan@gmail.com
 
 <!---
