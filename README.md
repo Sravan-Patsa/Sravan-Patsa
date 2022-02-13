@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sravan-Patsa
 
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m an Artificial Intelligence Enthusiast 
 
 - 📫 How to reach me patsasravan@gmail.com
 
